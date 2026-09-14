@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TIKTOD V3</string>
+    <string name="hint_url">TikTok video URL</string>
+    <string name="hint_target">Target amount</string>
+    <string name="hint_threads">Threads (4-64)</string>
+    <string name="hint_proxy">Proxies (one per line)</string>
+    <string name="btn_start">START</string>
+    <string name="btn_stop">STOP</string>
+    <string name="mode_views">Views</string>
+    <string name="mode_hearts">Hearts</string>
+    <string name="mode_shares">Shares</string>
+    <string name="mode_favorites">Favorites</string>
+    <string name="mode_followers">Followers</string>
+</resources>
