@@ -1,0 +1,3 @@
+-keep class com.axion.tiktodv3.** { *; }
+-dontwarn okhttp3.**
+-dontwarn okio.**
